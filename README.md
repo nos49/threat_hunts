@@ -20,7 +20,7 @@ The goal of this repo is to practice and show a repeatable, evidence-driven appr
 
 | # | Hunt | Summary | Platform | Key Techniques | Severity | Status |
 |---|---|---|---|---|---|---|
-| 1 | [Scattered Invoice](./Scattered-Invoice/README.md) | MFA fatigue account takeover leading to inbox rule persistence and a thread-hijacked business email compromise against a finance team | Microsoft Sentinel | T1621, T1078.004, T1114.003, T1564.008, T1534 | High | Complete |
+| 1 | [Scattered Invoice](./scattered_invoice/README.md) | MFA fatigue account takeover leading to inbox rule persistence and a thread-hijacked business email compromise against a finance team | Microsoft Sentinel | T1621, T1078.004, T1114.003, T1564.008, T1534 | High | Complete |
 
 ---
 
