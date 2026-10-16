@@ -1,7 +1,5 @@
 # Threat Hunting Reports
 
-**Author:** Nosilla Garner
-
 A collection of threat hunting investigations completed in a cyber range environment. Each hunt is documented as a structured report covering the trigger, methodology, KQL queries, findings, indicators of compromise, MITRE ATT&CK mapping, and recommendations.
 
 The goal of this repo is to practice and show a repeatable, evidence-driven approach to threat hunting: start with a hypothesis, follow the data, back every claim with logs, and clearly state what the evidence does and does not prove.
