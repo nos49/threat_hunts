@@ -43,7 +43,7 @@ Every report follows the same template, adapted from The Threat Hunter's Report 
 | 10. Appendix & References | Supporting material, glossary, and external sources |
 | 11. Sensitivity Label | Data classification for the report |
 
-The blank template is in [Template/README.md](./Template/README.md).
+The blank template is in [Template.md](./template.md).
 
 ---
 
