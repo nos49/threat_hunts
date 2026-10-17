@@ -21,6 +21,7 @@ The goal of this repo is to practice and show a repeatable, evidence-driven appr
 | # | Hunt | Summary | Platform | Key Techniques | Severity | Status |
 |---|---|---|---|---|---|---|
 | 1 | [Scattered Invoice](./scattered_invoice/README.md) | MFA fatigue account takeover leading to inbox rule persistence and a thread-hijacked business email compromise against a finance team | Microsoft Sentinel | T1621, T1078.004, T1114.003, T1564.008, T1534 | High | Complete |
+| 2 | [Operation EchoLeak](./operation_echoleak/README.md) | Indirect prompt injection in an emailed document hijacked Microsoft 365 Copilot, which searched SharePoint and OneDrive for sensitive files and exfiltrated them through Base64-encoded markdown image URLs | Microsoft Sentinel | AML.T0051, T1566.001, T1213.002, T1132.001, T1567 | High | Complete |
 
 ---
 
